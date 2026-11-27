@@ -76858,5 +76858,12 @@
     "author": "KT",
     "description": "Generate Japanese titles for untitled notes with AI and rename them automatically. Works with Google Gemini (free tier available) or Anthropic Claude, on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "skmo0507/ja-auto-title"
+  },
+  {
+    "id": "sentence-dictation",
+    "name": "句段听写工作台 Sentence Dictation",
+    "author": "hollis0v0",
+    "description": "Sentence-by-sentence dictation practice with per-sentence TTS, blurred source and translation, cursor-based navigation and saved progress.",
+    "repo": "hollis0v0/sentence-dictation"
   }
 ]
